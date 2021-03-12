@@ -1,22 +1,38 @@
 <template>
-  <div class="blue-background">
-    <div class="card-container">
-      <v-card class="mx-auto" max-width="400">
-        <v-img
-          class="white--text align-end"
-          height="200px"
-          src="https://media.newyorker.com/photos/5e06335ca15be900089fe632/1:1/w_1309,h_1309,c_limit/Brody-CatsReview.jpg"
-        >
-          <v-card-title></v-card-title>
-        </v-img>
-        <v-card-subtitle class="pb-0">I like cats</v-card-subtitle>
-        <v-card-text class="text--primary">
-          <div>Cats r da best</div>
-        </v-card-text>
-        <v-card-actions>
-          <v-btn class="gold" text>Send me $</v-btn>
-        </v-card-actions>
-      </v-card>
+  <div>
+    <div class="black-background vh-height">
+      <div class="no-decoration">
+        <router-link to="/">
+          <v-btn icon>
+            <v-icon class="icon-class">mdi-arrow-left</v-icon>
+          </v-btn>
+        </router-link>
+      </div>
+      <div class="big-header max-height d-flex align-center">
+        I architect and develop software solutions
+      </div>
+      <div>
+      </div>
+    </div>
+    <div class="black-background vh-height">
+      <div class="big-header max-height d-flex align-center">
+        I architect and develop software solutions
+      </div>
+    </div>
+    <div class="black-background">
+      <div class="body-text d-flex flex-column align-center justify-center">
+        <div class="justify-start">
+          <div class="body-text-header">
+            About
+          </div>
+          <div class="body-text-subheader">
+            Hello! My name is Clay Kramp, and I am a software engineer reporting from the mountains of Colorado!
+          </div>
+          <div class="body-text-body">
+            
+          </div>
+        </div>        
+      </div>
     </div>
   </div>
 </template>
@@ -32,18 +48,51 @@ export default Vue.extend({
 </script>
 
 <style scoped>
-.blue-background {
-  position: relative;
-  height: calc(100vh);
-  background-image: linear-gradient(to top right, #0b1b67, #0a5848);
+.vh-height {
+  height: 100vh;
 }
-.card-container {
-  position: absolute;
-  top: 10vh;
+.black-background {
+  position: relative;
+  background-color: black;
+}
+.max-height {
+  height: 100%;
+}
+.no-decoration >>> a {
+  text-decoration: none;
+}
+.icon-class {
+  color: white !important;
+  font-size: 3rem !important;
+  padding-left: 2rem;
+  padding-top: 2rem;
+}
+.big-header {
+  font-size: 6rem;
+  color: white;
+  font-family: 'JetBrains Mono', monospace;
+  padding-left: 5rem;
+}
+.body-text {
+  color: white;
+  font-size: 2rem;
+  max-width: 800px;
   margin: auto;
   width: 100%;
+  font-family: 'Lato', sans-serif;
 }
-.gold {
-  color: #b0974a;
+.body-text-header {
+  color: red;
+  font-size: 3rem;
+}
+.body-text-subheader {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  font-size: 1.5rem;
+}
+.body-text-body {
+  font-size: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem; 
 }
 </style>

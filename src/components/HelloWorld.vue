@@ -1,9 +1,15 @@
 <template>
   <div class="purple-background">
     <div class="header">
-      <div class="white-text on-hover hover-hello"><span></span></div>
-      <div class="white-text on-hover hover-iam"><span></span></div>
-      <div class="red-text on-hover hover-clay"><span></span></div>
+      <router-link to="/work">
+        <div class="white-text on-hover hover-hello"><span></span></div>
+      </router-link>
+      <router-link to="/about">
+        <div class="white-text on-hover hover-iam"><span></span></div>
+      </router-link>
+      <router-link to="/contact">
+        <div class="red-text on-hover hover-clay"><span></span></div>
+      </router-link>
     </div>
     <div class="sub-header">
       ...and it is very nice to meet you!

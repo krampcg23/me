@@ -34,6 +34,7 @@ export default Vue.extend({
 
 <style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Courgette&family=JetBrains+Mono:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 html, body {
   font-family: Helvetica, Arial;
