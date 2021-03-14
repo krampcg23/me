@@ -47,7 +47,7 @@
             <br/> <br/>
             You can read more about my experiences from my resume below:
             <br/> <br/>
-            <a href="../assets/Clay_Kramp_Resume.pdf" download>Clay Kramp's Resume, 3/14/2021</a>
+            <a href="https://www.dropbox.com/s/csg8x7t0z5geh9i/Clay%20Kramp%20Resume.pdf?dl=0" target="_blank">Clay Kramp's Resume 3/14/2021</a>
           </div>
         </div>        
       </div>
@@ -66,6 +66,14 @@ export default Vue.extend({
 </script>
 
 <style scoped>
+@keyframes slideIntoThoseDMs {
+  0% {
+    transform: translateY(20%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
 .vh-height {
   height: 100vh;
 }
@@ -90,6 +98,7 @@ export default Vue.extend({
   color: white;
   font-family: 'JetBrains Mono', monospace;
   padding-left: 5rem;
+  animation: 0.3s ease-out 0s 1 slideIntoThoseDMs;
 }
 .body-text {
   color: white;
