@@ -34,7 +34,7 @@
               <li><i>Meaningful Work</i>: &nbsp;&nbsp;It's important to me that the work I do is meaningful, and helps advance society (even if it's marginal). I am not 
               interested in developing a one-click button to order a burger from McDonald's, but strongly invested in solving complex issues to support initiatives like the 
               environment, hunger, or safety using my technical skills.<br/><br/></li>
-              <li><i>Culture</i>: &nbsp;&nbsp;I did not realize how important working culture is until I experienced a <i>bad</i> working culture. Knowing your co-workers 
+              <li><i>Culture</i>: &nbsp;&nbsp;Work culture is <i>critical</i> to have a succesful company. Knowing your co-workers 
               strengths and weaknesses, establishing a bond, and caring about their lives lead to better work relationships, higher collaboration, and overall more sustainable and safer code. 
               It's a simple win-win to improve both work and life.<br/><br/></li>
               <li><i>Professional Development</i>: &nbsp;&nbsp;I care deeply about professional development outside of work. In my own experience, getting certifications or taking courses
