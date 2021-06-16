@@ -10,19 +10,9 @@
       </div>
       <div class="black-background work-items">
         <WorkItem
-          workplace="Maxar"
-          title="Software Engineer"
-          dates="May 2021 - Present"
-          description="
-          - Software Engineer on the Geospatial Cloud Services Team<br /><br/>
-          - Developing the next generation software for SecureWatch, an on-demand software to the world's most recent <br/>high-accuracy, high-resolution satellite imagery and analytics<br/><br/>"
-          link="https://www.maxar.com/"
-          linkTitle="Nexla.com"
-        ></WorkItem> 
-        <WorkItem
           workplace="Nexla"
           title="Solutions Engineer"
-          dates="Feb 2021 - Apr 2021"
+          dates="Feb 2021 - Present"
           description="
           - Architect, develop, and manage DataOps for several client companies<br /><br/>
           - Using the Nexla platform to solve client’s data problems using our unique data mesh solution<br/><br/>"
