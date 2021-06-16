@@ -47,7 +47,7 @@
             <br/> <br/>
             You can read more about my experiences from my resume below:
             <br/> <br/>
-            <a href="https://www.dropbox.com/s/csg8x7t0z5geh9i/Clay%20Kramp%20Resume.pdf?dl=0" target="_blank">Clay Kramp's Resume 3/14/2021</a>
+            <a href="https://www.dropbox.com/s/csg8x7t0z5geh9i/Clay%20Kramp%20Resume.pdf?dl=0" target="_blank">Clay Kramp's Resume 6/16/2021</a>
           </div>
         </div>        
       </div>
