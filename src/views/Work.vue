@@ -14,11 +14,12 @@
           title="Software Engineer"
           dates="May 2021 - Present"
           description="
-          - Software Engineer on the Geospatial Cloud Services Team<br /><br/>
+          - Software Engineer on the Maxar Data Services Team <br /><br/>
+          - Lead Front-End engineer in Scrum Team <br /><br/>
           - Developing the next generation software for SecureWatch, an on-demand software to the world's most recent <br/>high-accuracy, high-resolution satellite imagery and analytics<br/><br/>"
           link="https://www.maxar.com/"
           linkTitle="Maxar.com"
-        ></WorkItem> 
+        ></WorkItem>
         <WorkItem
           workplace="Nexla"
           title="Solutions Engineer"
@@ -41,7 +42,7 @@
           - Modernized a major transportation company’s payment and accounting web application by using Angular with TypeScript,<br/> containerizing with Docker, orchestrating with Kubernetes, and creating CI/CD pipelines to help manage their $4B business.<br/><br/>"
           link="https://credera.com/"
           linkTitle="Credera.com"
-        ></WorkItem> 
+        ></WorkItem>
         <WorkItem
           workplace="CSM"
           title="Adjunct Instructor"
@@ -107,8 +108,8 @@
 
 <script lang="ts">
 import Vue from "vue";
-import WorkItem from '../components/WorkItem.vue';
-import Things from '../components/Things.vue';
+import WorkItem from "../components/WorkItem.vue";
+import Things from "../components/Things.vue";
 export default Vue.extend({
   name: "Work",
   components: {
@@ -147,7 +148,7 @@ export default Vue.extend({
 .big-header {
   font-size: 6rem;
   color: white;
-  font-family: 'JetBrains Mono', monospace;
+  font-family: "JetBrains Mono", monospace;
   padding-left: 5rem;
 }
 .body-text {
@@ -156,7 +157,7 @@ export default Vue.extend({
   max-width: 800px;
   margin: auto;
   width: 100%;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
 }
 .body-text-header {
   color: red;
@@ -170,7 +171,7 @@ export default Vue.extend({
 .body-text-body {
   font-size: 1.25rem;
   padding-top: 2rem;
-  padding-bottom: 15rem; 
+  padding-bottom: 15rem;
 }
 a {
   color: red;
