@@ -16,7 +16,8 @@
           description="
           - Software Engineer on the Maxar Data Services Team <br /><br/>
           - Developing Usage and Metering for SecureWatch, an on-demand software to the world's most recent <br/>high-accuracy, high-resolution satellite imagery and analytics<br/><br/>
-          - Lead Front-End engineer in Scrum Team <br /><br/>"
+          - Lead Front-End engineer in Scrum Team <br /><br/>
+          - Current Asian American + Pacific Islander Employee Resource Group Leader <br /><br/>"
           link="https://www.maxar.com/"
           linkTitle="Maxar.com"
         ></WorkItem>

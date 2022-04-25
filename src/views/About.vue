@@ -63,6 +63,15 @@
                 equally important). I believe it has made me a more well-rounded
                 engineer, and helped me become a better mentor as well.
               </li>
+              <li>
+                <i>Diversity, Inclusion, Belonging</i>: &nbsp;&nbsp;As a
+                minority myself, I find it important to develop an environment
+                where all can feel welcome and included. There's a common term
+                called the "Bamboo Ceiling" describing the difficulty Asian
+                Americans face in breaking through to upper management. I am
+                proud to serve as an ERG leader, and intend to champion others
+                to grow and succeed in their careers in meaningful ways.
+              </li>
             </ul>
             <br />
             <br />
